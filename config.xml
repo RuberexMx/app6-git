@@ -34,7 +34,7 @@
 	
 <!-- Para acceder a paginas de internet -->
 <allow-internet href="https://*/*"/>
-<acces origin"https://*/*"/>
+<acces origin="https://*/*"/>
 <alow-intent href="http://*/*"/>
 <acces origin="http://*/*"/>
 <plugin name="cordova-plugin-whitelist" source="npm"/>
